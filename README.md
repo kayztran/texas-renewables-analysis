@@ -1,5 +1,4 @@
 # **Texas Renewable Generation Project**
-*Final project repository for I 320M*
 
 ## **I. Data Sources**
 - Electric Reliability Council of Texas (ERCOT): - Historical renewable power generation data (wind and solar)
